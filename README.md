@@ -61,7 +61,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing re
 ## API Endpoints
 
 ### Base URL
-`http://localhost:3000/api/recipes`
+`https://task-10-express-js.onrender.com/api/recipes`
 
 ### Endpoints
 
